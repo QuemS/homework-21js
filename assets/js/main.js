@@ -31,4 +31,3 @@
     }
     console.log(`There were ${amountFrost} freezes in a period of ${winterDays.length} days `);
     console.log(`Maximum freezing period ${maxPeriods} days`);
-    console.log(arrPeriods);
